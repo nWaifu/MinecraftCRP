@@ -1,0 +1,162 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+	{
+		
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "custom:block/tuff"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 2
+		},
+		"model": "custom:block/stone"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 3
+		},
+		"model": "custom:block/cobblestone"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 4
+		},
+		"model": "custom:block/deepslate"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 5
+		},
+		"model": "custom:block/cobbled_deepslate"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 6
+		},
+		"model": "custom:block/white_wool"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 7
+		},
+		"model": "custom:block/glass"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 8
+		},
+		"model": "custom:block/tinded_glass"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 9
+		},
+		"model": "custom:block/oak_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 10
+		},
+		"model": "custom:block/spruce_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 11
+		},
+		"model": "custom:block/dark_oak_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 12
+		},
+		"model": "custom:block/warped_stem_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 13
+		},
+		"model": "custom:block/crimson_stem_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 14
+		},
+		"model": "custom:block/cherry_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 15
+		},
+		"model": "custom:block/birch_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 16
+		},
+		"model": "custom:block/mangrove_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 17
+		},
+		"model": "custom:block/acacia_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 18
+		},
+		"model": "custom:block/jungle_log_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 19
+		},
+		"model": "custom:block/bamboo_block_top"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 20
+		},
+		"model": "custom:block/moss_block"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 21
+		},
+		"model": "custom:item/redstone"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 22
+		},
+		"model": "custom:item/campfire"
+	}
+  ]
+}
