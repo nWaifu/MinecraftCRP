@@ -164,6 +164,13 @@
 			"custom_model_data": 23
 		},
 		"model": "custom:block/grass_block_side"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 24
+		},
+		"model": "custom:block/mycelium_side"
 	}
   ]
 }
