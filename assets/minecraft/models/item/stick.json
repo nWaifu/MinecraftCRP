@@ -149,14 +149,21 @@
 		"predicate": {
 			"custom_model_data": 21
 		},
-		"model": "custom:item/redstone"
+		"model": "custom:block/coarse_dirt"
 	},
 	{
 		
 		"predicate": {
 			"custom_model_data": 22
 		},
-		"model": "custom:item/campfire"
+		"model": "custom:block/dirt"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 23
+		},
+		"model": "custom:block/grass_block_side"
 	}
   ]
 }
