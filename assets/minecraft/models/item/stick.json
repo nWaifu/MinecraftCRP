@@ -170,21 +170,35 @@
 		"predicate": {
 			"custom_model_data": 24
 		},
-		"model": "custom:block/mycelium_side"
+		"model": "custom:block/mud"
 	},
 	{
 		
 		"predicate": {
 			"custom_model_data": 25
 		},
-		"model": "custom:block/mud"
+		"model": "custom:block/packed_mud"
 	},
 	{
 		
 		"predicate": {
 			"custom_model_data": 26
 		},
-		"model": "custom:block/packed_mud"
+		"model": "custom:block/sand"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 27
+		},
+		"model": "custom:block/gravel"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 28
+		},
+		"model": "custom:block/sculk"
 	}
   ]
 }
