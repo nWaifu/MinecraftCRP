@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/written_book"
+  },
+  "overrides": [
+	{
+		
+		"predicate": {
+			"custom_model_data": 4
+		},
+		"model": "custom:item/book/dark_book_written"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 5
+		},
+		"model": "custom:item/book/diamond_book_written"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 6
+		},
+		"model": "custom:item/book/magic_book_written"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 7
+		},
+		"model": "custom:item/book/nature_book_written"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 8
+		},
+		"model": "custom:item/book/redstone_book_written"
+	}
+  ]
+}
