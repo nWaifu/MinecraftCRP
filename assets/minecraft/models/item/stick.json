@@ -199,6 +199,13 @@
 			"custom_model_data": 28
 		},
 		"model": "custom:block/sculk"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 1000
+		},
+		"model": "custom:block/barrier"
 	}
   ]
 }
