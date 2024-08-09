@@ -1,5 +1,5 @@
 {
-	"credit": "kai was to short",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "custom:items/katana"
 	},
@@ -10524,9 +10524,9 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 90, 100],
-			"translation": [0, 12.521, 7.6517],
-			"scale": [1, 0.6, 0.7]
+			"rotation": [170.5, 90, 99],
+			"translation": [-0.5, -11, -3],
+			"scale": [0.6, 0.6, 0.7]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -90, -100],
