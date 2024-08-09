@@ -9,6 +9,13 @@
 		"predicate": {
 			"custom_model_data": 1
 		},
+		"model": "custom:models/totem_of_undying"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 2
+		},
 		"model": "custom:item/katana"
 	}
   ]
