@@ -203,6 +203,34 @@
 	{
 		
 		"predicate": {
+			"custom_model_data": 29
+		},
+		"model": "custom:block/podzol_side"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 30
+		},
+		"model": "custom:block/andesite"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 31
+		},
+		"model": "custom:block/diorite"
+	},
+	{
+		
+		"predicate": {
+			"custom_model_data": 32
+		},
+		"model": "custom:block/granite"
+	},
+	{
+		
+		"predicate": {
 			"custom_model_data": 1000
 		},
 		"model": "custom:block/barrier"
