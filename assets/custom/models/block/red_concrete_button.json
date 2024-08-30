@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/button",
-  "textures": {
-    "layer0": "custom:block/red_concrete"
-  }
-}
