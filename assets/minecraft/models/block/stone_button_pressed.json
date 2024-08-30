@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/button_pressed",
   "textures": {
-    "layer0": "minecraft:block/stone"
+    "texture": "minecraft:block/stone"
   },
   "overrides": [
 	{

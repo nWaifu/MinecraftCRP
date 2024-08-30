@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/button_pressed",
   "textures": {
-    "layer0": "custom:block/red_concrete"
+    "texture": "custom:block/red_concrete"
   }
 }

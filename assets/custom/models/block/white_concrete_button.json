@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/button",
   "textures": {
-    "layer0": "custom:block/white_concrete"
+    "texture": "custom:block/white_concrete"
   }
 }
