@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/button_inventory",
   "textures": {
-    "texture": "minecraft:block/stone"
+    "layer0": "minecraft:block/stone"
   },
   "overrides": [
 	{

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/button_inventory",
   "textures": {
-    "texture": "custom:block/red_concrete"
+    "layer0": "custom:block/red_concrete"
   }
 }
