@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "minecraft:block/stone"
+  },
+  "overrides": [
+	{
+		
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "custom:block/white_concrete"
+	},
+	{
+		"predicate": {
+			"custom_model_data": 2
+		},
+		"model": "custom:block/red_concrete"
+	}
+  ]
+}
