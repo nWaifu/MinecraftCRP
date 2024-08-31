@@ -1,5 +1,5 @@
 {
-  "parent": "custom:block/slab_top",
+  "parent": "minecraft:block/slab_top",
   "textures": {
     "bottom": "custom:block/white_concrete",
     "side": "custom:block/white_concrete",
