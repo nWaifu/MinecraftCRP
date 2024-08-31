@@ -231,6 +231,13 @@
 	{
 		
 		"predicate": {
+			"custom_model_data": 999
+		},
+		"model": "custom:block/green_barrier"
+	},
+	{
+		
+		"predicate": {
 			"custom_model_data": 1000
 		},
 		"model": "custom:block/barrier"
