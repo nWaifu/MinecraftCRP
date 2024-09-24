@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:entity/generated",
+  "textures": {
+    "layer0": "minecraft:entity/banner_base"
+  },
+  "overrides": [
+	{
+		
+		"predicate": {
+			"custom_model_data": 2
+		},
+		"model": "custom:entity/banner_base"
+	}
+  ]
+}
