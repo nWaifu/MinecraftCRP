@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:entity/generated",
-  "textures": {
-    "layer0": "custom:entity/banner_base"
-  }
-}
