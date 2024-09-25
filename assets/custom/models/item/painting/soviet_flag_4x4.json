@@ -25,15 +25,22 @@
 			"scale": [0.5, 0.5, 1]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 0, 7.25],
+			"translation": [8.5, 0, 7.25],
 			"scale": [0.5, 0.5, 1]
+		},
+		"firstperson_lefthand": {
+			"translation": [15, 0, 0]
 		},
 		"gui": {
 			"translation": [-4, -4, 0],
 			"scale": [0.5, 0.5, 1]
 		},
+		"head": {
+			"translation": [-8, 14, 1.5]
+		},
 		"fixed": {
-			"translation": [-8, -8, 7.5]
+			"translation": [-80, 16, 7.5],
+			"scale": [4, 4, 1]
 		}
 	}
 }
