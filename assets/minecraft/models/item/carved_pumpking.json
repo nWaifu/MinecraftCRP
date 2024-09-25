@@ -1,5 +1,8 @@
 {
-  "parent": "minecraft:block/carved_pumpkin",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/carved_pumpkin"
+  },
   "overrides": [
   	{ "predicate": {"custom_model_data": 1}, "model": "custom:item/painting/hg_1x2_calendar_hotguy"},
 	{ "predicate": {"custom_model_data": 2}, "model": "custom:item/painting/hg_1x2_calendar_hotguy_signed"},
