@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [512, 256],
+	"textures": {
+		"0": "custom:item/painting/soviet_flag",
+		"particle": "custom:item/painting/soviet_flag"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 32, 1],
+			"faces": {
+				"north": {"uv": [0.3125, 0, 8.3125, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.03125, 2], "texture": "#0"},
+				"south": {"uv": [0.15625, 0, 5.5, 10.0625], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.03125, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 0.0625], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 0.0625], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 7.25],
+			"scale": [0.5, 0.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 7.25],
+			"scale": [0.5, 0.5, 1]
+		},
+		"gui": {
+			"translation": [-4, -4, 0],
+			"scale": [0.5, 0.5, 1]
+		},
+		"fixed": {
+			"translation": [-8, -8, 7.5]
+		}
+	}
+}
