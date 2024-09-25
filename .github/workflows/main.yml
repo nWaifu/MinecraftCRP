@@ -23,7 +23,7 @@ jobs:
         echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
         zip -r "${ZIP_NAME}" .
     - name: Upload ZIP artifact
-      uses: uses: actions/upload-artifact@v4.4.0
+      uses: actions/upload-artifact@v4.4.0
       with:
         name: resource-pack-artifact
         path: ${{ env.ZIP_NAME }}
