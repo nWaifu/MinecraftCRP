@@ -10,7 +10,7 @@
 	{ "predicate": {"custom_model_data": 4}, "model": "custom:item/painting/hg_1x2_calendar_volley_signed"},
 	{ "predicate": {"custom_model_data": 5}, "model": "custom:item/painting/hg_2x2_photo"},
 	{ "predicate": {"custom_model_data": 6}, "model": "custom:item/painting/hg_2x2_photo_signed"},
-	{ "predicate": {"custom_model_data": 7}, "model": "custom:item/painting/hgg_4x4_photo"},
+	{ "predicate": {"custom_model_data": 7}, "model": "custom:item/painting/hg_4x4_photo"},
 	{ "predicate": {"custom_model_data": 8}, "model": "custom:item/painting/hg_4x4_photo_signed"},
 	{ "predicate": {"custom_model_data": 9}, "model": "custom:item/painting/soviet_flag_4x2"},
 	{ "predicate": {"custom_model_data": 10}, "model": "custom:item/painting/soviet_flag_4x4"}
