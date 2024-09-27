@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/item/deco/vendor1",
-		"particle": "custom/item/deco/vendor1"
+		"0": "custom:item/deco/vendor1",
+		"particle": "custom:item/deco/vendor1"
 	},
 	"elements": [
 		{
