@@ -10,6 +10,6 @@
 	{ "predicate": {"custom_model_data": 9}, "model": "custom:item/painting/soviet_flag_4x2"},
 	{ "predicate": {"custom_model_data": 10}, "model": "custom:item/painting/soviet_flag_4x4"},
 	{ "predicate": {"custom_model_data": 11}, "model": "custom:item/painting/stalin_1x2"},
-	{ "predicate": {"custom_model_data": 11}, "model": "custom:item/deco/vendor1"}
+	{ "predicate": {"custom_model_data": 12}, "model": "custom:item/deco/vendor1"}
   ]
 }
