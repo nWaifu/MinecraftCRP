@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "custom:item/painting/villiger4",
+		"2": "custom:item/painting/texture",
+		"particle": "custom:item/painting/soviet_flag"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 22, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 32.3125], "texture": "#1"},
+				"east": {"uv": [0.75, 10.5, 3.75, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [4, 6.75, 4.25, 12.25], "texture": "#2"},
+				"up": {"uv": [12, 8, 8, 7.75], "texture": "#2"},
+				"down": {"uv": [8.75, 10.5, 4.75, 10.75], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [2.5, 0, 7.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [8.25, 0, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, 7.5],
+			"scale": [2, 2, 1]
+		}
+	}
+}
