@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [512, 189],
+	"textures": {
+		"0": "custom:item/painting/jp_2",
+		"particle": "custom:item/painting/jp_2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 32, 1],
+			"faces": {
+				"north": {"uv": [0.03125, 0, 5.28125, 16], "texture": "#0"},
+				"east": {"uv": [0.09375, 0, 0.15625, 16], "texture": "#0"},
+				"south": {"uv": [0.0625, 0, 5.28125, 16], "texture": "#0"},
+				"west": {"uv": [5.1875, 0, 5.25, 16], "texture": "#0"},
+				"up": {"uv": [0, 0.25397, 5.125, 0.25397], "texture": "#0"},
+				"down": {"uv": [0, 15.66138, 5.21875, 15.74603], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 7.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [20, 0, 7.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [20, 0, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [-10, -10, -6.75]
+		},
+		"gui": {
+			"translation": [-4, -4, 0],
+			"scale": [0.5, 0.5, 1]
+		},
+		"head": {
+			"translation": [-7.75, 1.5, 1]
+		},
+		"fixed": {
+			"translation": [-32, 0, 7.25],
+			"scale": [2, 2, 1]
+		}
+	}
+}
