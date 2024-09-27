@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [512, 512],
+	"textures": {
+		"0": "custom:item/painting/jp_lantern",
+		"particle": "custom:item/painting/jp_lantern"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 32, 1],
+			"faces": {
+				"north": {"uv": [3.90625, 0, 11.90625, 16], "texture": "#0"},
+				"east": {"uv": [12, 0, 12, 16], "texture": "#0"},
+				"south": {"uv": [3.90625, 0, 11.90625, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.03125, 16], "texture": "#0"},
+				"up": {"uv": [4.0625, 0, 12.0625, 0.03125], "texture": "#0"},
+				"down": {"uv": [3.875, 15.9375, 11.875, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [5, 3.5, 7.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [5, 2.75, 7.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [12, 0.25, -18]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [12, 0.25, -18]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -11, -8.25]
+		},
+		"gui": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 1]
+		},
+		"head": {
+			"translation": [0, 1.5, 1.25]
+		},
+		"fixed": {
+			"translation": [0, -32, 7],
+			"scale": [2, 2, 1]
+		}
+	}
+}

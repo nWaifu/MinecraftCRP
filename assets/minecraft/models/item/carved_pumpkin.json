@@ -1,6 +1,12 @@
 {
   "parent": "minecraft:block/carved_pumpkin",
   "overrides": [
+  	{ "predicate": {"custom_model_data": 1}, "model": "custom:item/painting/jp_lantern"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "custom:item/painting/jp_1"},
+	{ "predicate": {"custom_model_data": 3}, "model": "custom:item/painting/jp_2_1"},
+	{ "predicate": {"custom_model_data": 4}, "model": "custom:item/painting/jp_2_2"},
+	{ "predicate": {"custom_model_data": 5}, "model": "custom:item/painting/jp_2_3"},
+	{ "predicate": {"custom_model_data": 6}, "model": "custom:item/painting/jp_3"},
 	{ "predicate": {"custom_model_data": 9}, "model": "custom:item/painting/soviet_flag_4x2"},
 	{ "predicate": {"custom_model_data": 10}, "model": "custom:item/painting/soviet_flag_4x4"},
 	{ "predicate": {"custom_model_data": 11}, "model": "custom:item/painting/stalin_1x2"}
