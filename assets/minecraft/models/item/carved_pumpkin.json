@@ -7,6 +7,7 @@
 	{ "predicate": {"custom_model_data": 4}, "model": "custom:item/painting/jp_2_2"},
 	{ "predicate": {"custom_model_data": 5}, "model": "custom:item/painting/jp_2_3"},
 	{ "predicate": {"custom_model_data": 6}, "model": "custom:item/painting/jp_3"},
+	{ "predicate": {"custom_model_data": 7}, "model": "custom:item/painting/cover"},
 	{ "predicate": {"custom_model_data": 9}, "model": "custom:item/painting/soviet_flag_4x2"},
 	{ "predicate": {"custom_model_data": 10}, "model": "custom:item/painting/soviet_flag_4x4"},
 	{ "predicate": {"custom_model_data": 11}, "model": "custom:item/painting/stalin_1x2"},
