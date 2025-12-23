@@ -1,5 +1,4 @@
 {
-  "name": "ceracorp Bonemeal",
   "model": {
     "type": "minecraft:model",
     "model": "custom:item/ceracorp/bonemeal"
