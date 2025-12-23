@@ -1,0 +1,7 @@
+{
+  "name": "ceracorp Logo",
+  "model": {
+    "type": "minecraft:model",
+    "model": "custom:item/ceracorp/logo"
+  }
+}
