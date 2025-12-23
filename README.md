@@ -1,2 +1,2 @@
-# Custom Ressource Pack
+# Custom Resource Pack
 # Made by kaiwastoshort
