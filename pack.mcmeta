@@ -1,6 +1,6 @@
 {
     "pack": {
         "description": "Custom Ressourcepack for CustomRoleplay Datapack",
-        "packformat" : [75]
+        "pack_format" : [75]
     }
 }
