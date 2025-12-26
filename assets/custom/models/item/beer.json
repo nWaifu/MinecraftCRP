@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom:item/beer",
-		"particle": "custom:item/beer""
+		"particle": "custom:item/beer"
 	},
 	"elements": [
 		{
